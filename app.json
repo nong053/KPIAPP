@@ -22,7 +22,8 @@
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#ffffff"
       },
-      "package": "com.nong053.KPI"
+      "package": "com.nong053.KPI",
+      "versionCode": 3
     },
     "web": {
       "favicon": "./assets/favicon.png"
